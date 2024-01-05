@@ -1,0 +1,8 @@
+fastapi
+mangum
+python-dotenv
+openai 
+fastembed
+langchain
+qdrant-client
+uvicorn

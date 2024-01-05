@@ -1,0 +1,11 @@
+*env*
+*_pycache_*
+*egg*
+*build*
+*dist*
+*chroma.sqlite3*
+*.bin
+*log
+*pycache*
+*.pyc
+*cache*

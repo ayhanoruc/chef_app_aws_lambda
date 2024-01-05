@@ -1,0 +1,11 @@
+*cache*
+*venv*
+*.pyc
+*.pyo
+*.so
+*.egg-info
+*.egg
+*.egg-link
+*.dist-info
+README.md
+LICENSE
